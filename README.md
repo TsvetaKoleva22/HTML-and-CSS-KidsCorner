@@ -1,5 +1,5 @@
 # HTML-and-CSS-KidsCorner
-###Static landing page workshop 
+### Static landing page workshop 
 
 The purpose of the project to use various **HTML tags** and **CSS tools** in order to achieve a complex and stylish landing page for a hypothetical website. 
 
